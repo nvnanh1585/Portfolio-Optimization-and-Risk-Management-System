@@ -133,3 +133,7 @@ Phân tích thực nghiệm cho thấy một số kết quả quan trọng:
 Dự án cho thấy việc kết hợp **ước lượng hiệp phương sai vững chắc, mô hình hóa biến động, mô hình hóa phụ thuộc và mô phỏng rủi ro** có thể cải thiện đáng kể hiệu quả của các phương pháp tối ưu danh mục truyền thống.
 
 Framework được đề xuất cung cấp một nền tảng định lượng hữu ích cho **quản trị danh mục đầu tư và phân tích rủi ro trong các thị trường mới nổi như Việt Nam**.
+
+**Lưu ý**: 
+Repository này chỉ trình bày bộ dữ liệu, phương pháp nghiên cứu và kết quả chính của dự án. 
+Mã nguồn đầy đủ và báo cáo nghiên cứu chi tiết có thể được cung cấp khi có yêu cầu.

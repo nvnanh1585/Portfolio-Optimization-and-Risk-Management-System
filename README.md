@@ -102,7 +102,7 @@ Phân tích thực nghiệm cho thấy một số kết quả quan trọng:
 
 ---
 
-# Công nghệ sử dụng
+# Công cụ sử dụng
 
 * Python
 * NumPy
